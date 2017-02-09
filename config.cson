@@ -1,0 +1,45 @@
+"*":
+  "autocomplete-ruby":
+    rsensePath: "/Users/wchaudhry/.rvm/gems/ruby-2.3.3/bin/rsense"
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "monokai"
+    ]
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
+    showIndentGuide: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "df586546-3f8d-7206-e1bc-bc29cbc86c0f"
+  linter:
+    showErrorPanel: false
+  "linter-rubocop":
+    disableWhenNoConfigFile: true
+  "linter-scss-lint":
+    executablePath: "/Users/wchaudhry/.rvm/gems/ruby-2.3.3/bin/scss-lint"
+  "sync-settings":
+    _lastBackupHash: "d4cbf5a43241749d7c2972455dd2ebd8ccc4fe08"
+    gistId: "1b656babcba1bac667fe41853a132ba0"
+    personalAccessToken: "0cc054b75f5cf804fbcb3a241847b539a7c5dec4"
+    quietUpdateCheck: true
+".html.ruby.text":
+  editor:
+    showIndentGuide: true
+".js.jsx.react.source":
+  editor:
+    autoIndent: true
+".js.jsx.source":
+  editor:
+    autoIndent: true
+".js.rails.source source.jquery.js":
+  editor:
+    showIndentGuide: true
+".js.source.subtlegradient":
+  editor:
+    autoIndent: true
+".rails.ruby.source":
+  editor:
+    showIndentGuide: true
